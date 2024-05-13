@@ -25,10 +25,14 @@ Outside of academia, I have a passion for cooking, traveling, and swimming. In t
 
 If you are interested in my research, please feel free to contact me via email.
 
+<span class='anchor' id='educations'></span>
+
 # 📖 Educations
 
 - _2009.09 - 2013.06_, Bachelor of Electronic Science & Engineering, _Southeast University_, Nanjing, China. **GPA 3.84/4.0**. Ranking: 4/164 (Exam-exempted Postgraduate)
 - _2013.09 - 2016.06_, Master of Micro-Electronics, State Key Laboratory of ASIC & System, _Fudan University_ (Outstanding Graduate Award), Shanghai, China. **GPA 3.71/4.0**.
+
+<span class='anchor' id='technical-stacks'></span>
 
 # 💬 Technical Stacks
 
@@ -37,6 +41,8 @@ If you are interested in my research, please feel free to contact me via email.
 - Proficiency with Python, C++, CUDA, scikit-learn, OpenCV, PyTorch, TensorRT, Tensorflow, Caffe, Git, DevOps, TypeScript, Docker, huggingface, etc.
 
 - Familiar with mainstream AWS services, such as SageMaker Notebook/Neo, Amazon Bedrock, API Gateway, S3, Amazon DynamoDB, Aurora RDS, EC2, Lambda, Amazon IoT, Batch Computing,Code Pipeline, Amazon Elastic Container Service, AWS Fargate, Amazon OpenSearch Service (Elastic Search), AWS AppSync (GraphQL), AWS Cognito (Authentication/Authorization), etc.
+
+<span class='anchor' id='publications'></span>
 
 # 📝 Publications
 
@@ -51,6 +57,8 @@ If you are interested in my research, please feel free to contact me via email.
 - AWS Blog [Optimize Object Detection Inference Using Sagemaker Neo](https://aws.amazon.com/cn/blogs/china/sagemaker-neo-optimize-target-detection-model/)
 - AWS Blog [Building Security Video Cloud Storage Based on Hosted AWS Services](https://aws.amazon.com/cn/blogs/china/use-cloud-hosting-services-and-ai-to-build-security-video-cloud-storage/)
 - AWS Blog [AI Technology Integration In Intelligent Security Surveillance Video, AWS Blog](https://aws.amazon.com/cn/blogs/china/ai-technology-integration-in-smart-security-surveillance-video/)
+
+<span class='anchor' id='patents'></span>
 
 # 🔥 Patents
 
@@ -73,6 +81,8 @@ If you are interested in my research, please feel free to contact me via email.
 - Wanli Jiang, Maximilian DOMLING, Qianshan LI, Bill Shuhan LV, **Gavin Gaowei XU**, Tomas Tao XU, [Automated driving vehicle control by collision risk map](https://patent s.google.com/patent/WO2019127076A1/en), WO2019127076A1.
 - Yong Jiang, **Gaowei Xu**, Yang KONG, [Technologies for rapid configuration of field-programmable gate arrays](https://patents.google.com/patent/WO2019000362A1/en), WO2019000362A1.
 
+<span class='anchor' id='honors-and-awards'></span>
+
 # 🎖 Honors and Awards
 
 - 2020 AWS Certified Machine Learning - Specialty.
@@ -94,6 +104,8 @@ If you are interested in my research, please feel free to contact me via email.
 - 2011 Second Prize of Mathematical Contest in Modeling, China.
 - 2011 Scholarship of Germany HAILA Group.
 - 2010 Second Prize of Advanced Mathematical Contest, Jiangsu Province.
+
+<span class='anchor' id='work-experience'></span>
 
 # 💻 Work Experiences
 
@@ -133,6 +145,7 @@ If you are interested in my research, please feel free to contact me via email.
     Win cases: Kone China;
 
 - **BMW Group (Autonomous Driving Lab), Shanghai, China**
+
   _Advanced Specialist of Robotics and Artificial Intelligence_, March, 2017 – May, 2020
 
   _Specialist of Robotics and Artificial Intelligence_, April, 2019 – May, 2020 March
