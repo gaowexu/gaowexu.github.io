@@ -7,7 +7,7 @@
 
 # Site Settings
 title: "Gaowei Xu"
-description: "Gaowei Xu's Homepage. "
+description: "Carpe Diem. "
 repository: "gaowexu/gaowexu.github.io"
 google_scholar_stats_use_cdn: true
 
@@ -37,7 +37,7 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: https://github.com/gaowexu # e.g., "github username"
+  github: gaowexu # e.g., "github username"
   google_plus:
   keybase:
   instagram:
