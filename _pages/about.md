@@ -97,7 +97,7 @@ If you are interested in my research, please feel free to contact me via email.
 
 # 💻 Work Experiences
 
-- **Smart Robotics Technology Co., Ltd. (Mercedes-Geely subsidiary)**
+- **Smart Robotics Technology Co., Ltd. (Mercedes-Geely subsidiary), Shanghai, China**
 
   _Senior Tech. Expert_, Jan., 2022 - April, 2024.
 
@@ -132,17 +132,27 @@ If you are interested in my research, please feel free to contact me via email.
     Github: https://github.com/aws-samples/amazon-ipc-ai-saas/tree/facerec
     Win cases: Kone China;
 
-BMW Group (Autonomous Driving Lab), Shanghai, China
-Advanced Specialist of Robotics and Artificial Intelligence Specialist of Robotics and Artificial Intelligence
-March, 2017 – May, 2020 April, 2019 – May, 2020 March, 2017 – April, 2019
-As one of the core members of BMW Autonomous Driving lab, I was responsible for the development of perception, prediction and driving strategy development in technology aspect. In year 2018-2020, I lead the cooperation of BMW and Shanghai JiaoTong University (SJTU) and Navinfo Corp. on ”Gesture Detec- tion and Behavior Analysis” and ”Features Extraction of HD Map and Road-based Surveillance Cameras” projects, respectively.
-• Interactive Merge Maneuvers Modeling in Congested Traffic With MDP: A belief state planner for interactive merge maneuvers in congested traffic based on Markov Decision Process (MDP) and Monte Carlo sampling algorithm is developed and simulated. The research is published in IEEE ITS 2018.
-• Lane changing prediction of high-way or urban environment based on contextual-awareness model and ROS integration and verification: Build a time sequence based neural network model to predict the environment vehicle’s lane changing behavior, features such as vehicles orienta- tion, distance to center line, etc. are extracted and a two-layer LSTM model is established to infer the probabilities distribution of lane changing.
-• Quintic Polynomial Based Motion Planning and Trajectory Generation: Based on Frenet coordinate system, lateral & longitudinal motion state sampling is applied and then solve the motion equations based on sampled states and time horizons, furthermore, we define different cost functions to evaluate the quality of various planed trajectory candidates.
-• Cooperation with SJTU Unviersity: Leading the cooperation with SJTU on gesture detection and behavior analysis of pedestrians and convert the academic results into ROS environment of BMW autonomous driving vehicles and have been successfully demonstrated in multiple cities such as Shanghai Jiading and Hangzhou in China.
-• Cooperation with Navinfo Corp. : Leading the cooperation with Navinfo Corp. on features extraction of HD map and road-based surveillance cameras on both high-way and urban environments, including the features definition and extraction for lane changing prediction, precedence prediction, route prediction and trajectory prediction, etc. The cooperation contributes the whole dataset and the pipeline for BMW deep learning framework, which is definitely the infrastructure of prediction for BMW autonomous driving.
+- **BMW Group (Autonomous Driving Lab), Shanghai, China**
+  _Advanced Specialist of Robotics and Artificial Intelligence_, March, 2017 – May, 2020
 
-Intel Corp., Shanghai, China November 2015 – March 2017
-Deep Learning Engineer (As an intern from November 2015 to June 2016)
-• Developed a heterogeneous framework based on Xeon CPU and Altera FPGA to acceler- ate face detection algorithm (Haar-features based object detection): Experimental results demonstrate that the CPU+FPGA heterogeneous framework can achieve an average 53.78× speedup ratio than Xeon CPU solution based on Face Detection Data Set and Benchmark (FDDB). Also the software packages using v4l2 and simple directmedia layer (SDL) are developed for visualization.
-• Developed the distracted driver behaviors detection solution: According to the input frames with the micro-camera, we can classify the drivers’ behaviours (such as dialing, watching behind, texting, operating the radio, talking and safe driving) using convolutional neural network (CNN) framwork (resnet-50 and VGG16 are used). We integrated the whole solution into Intel Compute Stick, achieving 400ms/frame with opencl acceleration.
+  _Specialist of Robotics and Artificial Intelligence_, April, 2019 – May, 2020 March
+
+  As one of the core members of BMW Autonomous Driving lab, I was responsible for the development of perception, prediction and driving strategy development in technology aspect. In year 2018-2020, I lead the cooperation of BMW and Shanghai JiaoTong University (SJTU) and Navinfo Corp. on ”Gesture Detec- tion and Behavior Analysis” and ”Features Extraction of HD Map and Road-based Surveillance Cameras” projects, respectively.
+
+  - **Interactive Merge Maneuvers Modeling in Congested Traffic With MDP**: A belief state planner for interactive merge maneuvers in congested traffic based on Markov Decision Process (MDP) and Monte Carlo sampling algorithm is developed and simulated. The research is published in IEEE ITS 2018.
+
+  - **Lane changing prediction of high-way or urban environment based on contextual-awareness model and ROS integration and verification**: Build a time sequence based neural network model to predict the environment vehicle’s lane changing behavior, features such as vehicles orienta- tion, distance to center line, etc. are extracted and a two-layer LSTM model is established to infer the probabilities distribution of lane changing.
+
+  - **Quintic Polynomial Based Motion Planning and Trajectory Generation**: Based on Frenet coordinate system, lateral & longitudinal motion state sampling is applied and then solve the motion equations based on sampled states and time horizons, furthermore, we define different cost functions to evaluate the quality of various planed trajectory candidates.
+
+  - **Cooperation with SJTU University**: Leading the cooperation with SJTU on gesture detection and behavior analysis of pedestrians and convert the academic results into ROS environment of BMW autonomous driving vehicles and have been successfully demonstrated in multiple cities such as Shanghai Jiading and Hangzhou in China.
+
+  - **Cooperation with Navinfo Corp.** : Leading the cooperation with Navinfo Corp. on features extraction of HD map and road-based surveillance cameras on both high-way and urban environments, including the features definition and extraction for lane changing prediction, precedence prediction, route prediction and trajectory prediction, etc. The cooperation contributes the whole dataset and the pipeline for BMW deep learning framework, which is definitely the infrastructure of prediction for BMW autonomous driving.
+
+- **Intel Corp., Shanghai, China**
+
+  Deep Learning Engineer, November 2015 – March 2017.
+
+  - **Developed a heterogeneous framework based on Xeon CPU and Altera FPGA to accelerate face detection algorithm (Haar-features based object detection)**: Experimental results demonstrate that the CPU+FPGA heterogeneous framework can achieve an average 53.78× speedup ratio than Xeon CPU solution based on Face Detection Data Set and Benchmark (FDDB). Also the software packages using v4l2 and simple directmedia layer (SDL) are developed for visualization.
+
+  - **Developed the distracted driver behaviors detection solution**: According to the input frames with the micro-camera, we can classify the drivers’ behaviours (such as dialing, watching behind, texting, operating the radio, talking and safe driving) using convolutional neural network (CNN) framwork (resnet-50 and VGG16 are used). We integrated the whole solution into Intel Compute Stick, achieving 400ms/frame with opencl acceleration.
