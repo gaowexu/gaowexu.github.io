@@ -107,7 +107,7 @@ If you are interested in my research, please feel free to contact me via email.
 
 <span class='anchor' id='work-experience'></span>
 
-# 💻 Work Experiences
+# 💻 Work Experience
 
 - **Smart Robotics Technology Co., Ltd. (Mercedes-Geely subsidiary), Shanghai, China**
 
