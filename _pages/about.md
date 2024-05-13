@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I am Gaowei Xu (徐高伟), I graduated from the School of Electronic Science and Engineering of Southeast University, Nanjing, China, in 2013 with a bachelor's degree in electronic science and technology. In the second half of 2013, I obtained the postgraduate qualification without examination and entered the State Key Laboratory of Application-Specific Integrated Circuit (ASIC) and Systems at Fudan University to study digital integrated circuit design. My postgraduate topics are machine learning machine algorithms and VLSI acceleration, biological signal processing and circuit implementation.
 
-After graduation, I worked for Intel, BMW Group, Amazon Web Services (AWS), and smart Automobile. I have more than 8 years of working experience on the fields of artificial intelligence (AI), deep learning, robotics, autonomous driving, and cloud computing.Currently, I am a senior engineer at NVIDIA Corp, focusing on the fields of AI, autonomous driving and heterogeneous computing (Embedded CPU + GPU, cluster cloud-based, etc.). I have excellent communication skills in both English and Mandarin (both oral and written) and rich Experience of joint-development & cooperation with global team.
+After graduation, I worked for Intel, BMW Group, Amazon Web Services (AWS), and smart Automobile. I have more than 8 years of working experience on the fields of artificial intelligence (AI), deep learning, robotics, autonomous driving, and cloud computing.Currently, I am a senior engineer at NVIDIA Corp, focusing on the fields of AI, autonomous driving and heterogeneous computing (Embedded CPU + GPU, cluster cloud-based, etc.). I have excellent communication skills in both English and Mandarin (both oral and written) and rich Experience of joint-development \& cooperation with global team.
 
 Outside of academia, I have a passion for cooking, traveling, and swimming. In terms of my life goals, I aspire to have a fulfilling career in a field that I am passionate about. I also strive to make a positive impact by helping others realize their full potential.
 
@@ -27,8 +27,16 @@ If you are interested in my research, please feel free to contact me via email.
 
 # 📖 Educations
 
-- _2009.09 - 2013.06_, Bachelor of Electronic Science & Engineering, _Southeast University_, Nanjing, China. **GPA 3.84/4.0**. Ranking: 4/164 (Exam-exempted Postgraduate)
-- _2013.09 - 2016.06_, Master of Micro-Electronics, State Key Laboratory of ASIC & System, _Fudan University_ (Outstanding Graduate Award), Shanghai, China. **GPA 3.71/4.0**.
+- _2009.09 - 2013.06_, Bachelor of Electronic Science \& Engineering, _Southeast University_, Nanjing, China. **GPA 3.84/4.0**. Ranking: 4/164 (Exam-exempted Postgraduate)
+- _2013.09 - 2016.06_, Master of Micro-Electronics, State Key Laboratory of ASIC \& System, _Fudan University_ (Outstanding Graduate Award), Shanghai, China. **GPA 3.71/4.0**.
+
+# 💬 Technical Stacks
+
+- Familiar with Large Language Models (LLMs), LangChain, Retrieval-Augmented Generation (RAG), prompt engineering. Proficiency in Machine Learning (ML), AI, MLOps, AutoML, model distributed training, TensorRT optimization, CUDA operators acceleration.
+
+- Proficiency with Python, C++, CUDA, scikit-learn, OpenCV, PyTorch, TensorRT, Tensorflow, Caffe, Git, DevOps, TypeScript, Docker, huggingface, etc.
+
+- Familiar with mainstream AWS services, such as SageMaker Notebook/Neo, Amazon Bedrock, API Gateway, S3, Amazon DynamoDB, Aurora RDS, EC2, Lambda, Amazon IoT, Batch Computing,Code Pipeline, Amazon Elastic Container Service, AWS Fargate, Amazon OpenSearch Service (Elastic Search), AWS AppSync (GraphQL), AWS Cognito (Authentication/Authorization), etc.
 
 # 📝 Publications
 
@@ -36,7 +44,7 @@ If you are interested in my research, please feel free to contact me via email.
 - Face Detection Implementation Using a Heterogeneous Integrated Framework with Xeon CPU and Altera FPGA,** Gaowei Xu**, Liangwei Ge, _Intel Software Professionals Conference 2016. (Intel Internal)_
 - [A 1.5-D Multi-Channel EEG Compression Algorithm Based on NLSPIHT](https://ieeexplore.ieee.org/abstract/document/7004797), **G. Xu**, J. Han, Y. Zou and X. Zeng, In _IEEE Signal Processing Letters_, vol. 22, no. 8, pp. 1118-1122, Aug. 2015, doi: 10.1109/LSP.2015.2389856.
 - [A 12.9-uW 2-D ECG compression core based on NLSPIHT](https://ieeexplore.ieee.org/abstract/document/7021504), **G. Xu**, L. Zeng, Y. Zou, J. Han and X. Zeng, In _2014 12th IEEE International Conference on Solid-State and Integrated Circuit Technology (ICSICT)_ (pp. 1-3). IEEE.
-- [A configurable SVM hardware accelerator for embedded systems](https://ieeexplore.ieee.org/abstract/document/7021463), Yuan, T., **Xu, G.**, Zou, Y., Han, J., & Zeng, X., In _2014 12th IEEE International Conference on Solid-State and Integrated Circuit Technology (ICSICT)_ (pp. 1-3). IEEE.
+- [A configurable SVM hardware accelerator for embedded systems](https://ieeexplore.ieee.org/abstract/document/7021463), Yuan, T., **Xu, G.**, Zou, Y., Han, J., \& Zeng, X., In _2014 12th IEEE International Conference on Solid-State and Integrated Circuit Technology (ICSICT)_ (pp. 1-3). IEEE.
 - [A configurable SVM hardware accelerator for embedded systems](https://ieeexplore.ieee.org/abstract/document/6811978), **Gaowei Xu,** Yao Zou, Jun Han and Xiaoyang Zeng, In \*2013 IEEE 10th International Conference on ASIC\*\*, Shenzhen, 2013, pp. 1-4, doi: 10.1109/ASICON.2013.6811978.
 
 - AWS Blog [Building Battery Consistency Alarm Platform for Electric Vehicles Based on AWS](https://aws.amazon.com/cn/blogs/china/building-an-electric-vehicle-battery-warning-prediction-platform-based-on-aws/)
@@ -89,30 +97,18 @@ If you are interested in my research, please feel free to contact me via email.
 
 # 💻 Work Experiences
 
-- _2019.05 - 2020.02_, [Lorem](https://github.com/), China.
+- **Smart Robotics Technology Co., Ltd. (Mercedes-Geely subsidiary)**
+  _Senior Tech. Expert_, Jan., 2022 - April, 2024.
+  _Director, ADAS Perception (11 direct reports)_, Jan., 2022 - April, 2024.
+  _Director, ADAS Fusion (6 direct reports)_, Sep., 2022 – April, 2023
 
-• Familiar with Large Language Models (LLMs), LangChain, Retrieval-Augmented Generation (RAG),
-prompt engineering. Proficiency in Machine Learning (ML), AI, MLOps, AutoML, model distributed
-training, TensorRT optimization, CUDA operators acceleration.
-• Proficiency with Python, C++, CUDA, scikit-learn, OpenCV, PyTorch, TensorRT, Tensorflow, Caffe,
-Git, DevOps, TypeScript, Docker, huggingface, etc.
-• Familiar with mainstream AWS services, such as SageMaker Notebook/Neo, Amazon Bedrock, API
-Gateway, S3, Amazon DynamoDB, Aurora RDS, EC2, Lambda, Amazon IoT, Batch Computing,Code Pipeline, Amazon Elastic Container Service, AWS Fargate, Amazon OpenSearch Service
-(Elastic Search), AWS AppSync (GraphQL), AWS Cognito (Authentication/Authorization), etc.
+  _Responsible for building an autonomous driving perception \& fusion team from 0 to 1 (team size increases from 0 to 30+) and responsible for ADAS perception full-stack R\&D. Lead the building of a hybrid cloud solution (HUAWEI public cloud + Smart on-premises cloud) for ADAS perception. It is a framework for MLOps which includes multi-modal sensor structured and unstructured data acquisition, data injection into the cloud, data cleansing, data mining, scenario analysis, model training, KPI performance evaluation, model quantification and release (continuous integration). Lead the development of LiDAR \& multi-view camera joint labelling platform, labelling and annotation quality validation process, BEV (bird-eye-view) LiDAR 3D object detection, Monocular 3D object detection (MonoDETR), BEV multi-camera (2V, 7V) 3D object detection, BEV 3D lane detection, etc._
 
-Smart Robotics Technology Co., Ltd. (Mercedes-Geely subsidiary)
-Senior Tech. Expert
-Director, ADAS Perception (11 direct reports) Director, ADAS Fusion (6 direct reports)
-Jan., 2022−Present Jan., 2022 – Present Jan., 2022 – Present
-Sep., 2022 – April, 2023
-Responsible for building an autonomous driving perception & fusion team from 0 to 1 (team size increases from 0 to 30+) and responsible for ADAS perception full-stack R&D. Lead the building of a hybrid cloud solution (HUAWEI public cloud + Smart on-premises cloud) for ADAS perception. It is a framework for MLOps which includes multi-modal sensor structured and unstructured data acquisition, data injection into the cloud, data cleansing, data mining, scenario analysis, model training, KPI performance evaluation, model quantification and release (continuous integration). Lead the development of LiDAR & multi-view camera joint labelling platform, labelling and annotation quality validation process, BEV (bird-eye-view) LiDAR 3D object detection, Monocular 3D object detection (MonoDETR), BEV multi-camera (2V, 7V) 3D object detection, BEV 3D lane detection, etc.
+  - **Camera-LiDAR Joint Labelling Platform Development**: Lead team to develop visual and LiDAR joint 3D object labelling platform with React stack, integrate auto-labelling algorithm inside to accelerate labelling efficiency. Currently with this platform, each annotator could achieve > 700 boxes (LiDAR 3D object / camera BEV 3D object) each day.
 
-• Camera-LiDAR Joint Labelling Platform Development: Lead team to develop visual and LiDAR joint 3D object labelling platform with React stack, integrate auto-labelling algorithm inside
-GAOWEI XU
-Phone: +86-15800836035 Residence: Shanghai, China Wechat: xgw534692153abb Email: gaowexu1991@gmail.com Technical Stack: ML / AI / Robotics / ADAS
-to accelerate labelling efficiency. Currently with this platform, each annotator could achieve > 700 boxes (LiDAR 3D object / camera BEV 3D object) each day.
-• LiDAR 3D (1L, 3L), BEV Visual (7V) , BEVFusion (1L+7V) 3D Object Detection, 3D Lane Detection & CUDA Operators Optimization: Responsible for driving perception (LiDAR BEV 3D object detection, Visual BEV 7V 3D object detection, 1L+7V BEVFusion 3D object detection and lane detection, LiDAR points clustering) features. Lead team to reseach and develop LiDAR 3D, BEV visual 3D object detection model (CenterPoint, PointPillar, BEVFusion, etc.) with Smart self-data. Also, my team is responsible for model optimizing (with TensorRT FP16) and C++/CUDA operators (such as LiDAR voxels generator, voxels decorator, visual feature 2D-3D transformer, BEV feagure post-processing, etc.) implementation to further accelerate the inference speed in domain control (NVIDIA Xavier & Orin X). The solution could be easliy configured to different amount of LiDARs and cameras. The BEV LiDAR 3D object detector end-to-end inference time on the NVIDIA Xavier platform is about 45ms with 3 Robosense M1 LiDAR enabled. The end-to-end BEV visual 3D object detector on NVIDIA Orin X is about 58ms with 7-camera enabled with image resolution 1920 × 1080.
-• Occupancy Grid Map Fusion for Obstacles: Lead and develop the static object fusion with occupancy grid map. The region of interest is a 30m × 30m square and the resolution could be as small as 0.08m × 0.08m. The ultrasonic echos and stitched fish eye cameras’ segmentation results provide information input for grid fusion module. Grid occupancy probability fusion is mainly based on inter-frame motion prediction (LSTM, RNN) and evidence theory. The grid prediction and fusion module is implemented with C++/CUDA, the overall end-to-end fusion time cost is < 20ms on NVIDIA Xavier platform.
+  - **LiDAR 3D (1L, 3L), BEV Visual (7V) , BEVFusion (1L+7V) 3D Object Detection, 3D Lane Detection \& CUDA Operators Optimization**: Responsible for driving perception (LiDAR BEV 3D object detection, Visual BEV 7V 3D object detection, 1L+7V BEVFusion 3D object detection and lane detection, LiDAR points clustering) features. Lead team to reseach and develop LiDAR 3D, BEV visual 3D object detection model (CenterPoint, PointPillar, BEVFusion, etc.) with Smart self-data. Also, my team is responsible for model optimizing (with TensorRT FP16) and C++/CUDA operators (such as LiDAR voxels generator, voxels decorator, visual feature 2D-3D transformer, BEV feagure post-processing, etc.) implementation to further accelerate the inference speed in domain control (NVIDIA Xavier \& Orin X). The solution could be easliy configured to different amount of LiDARs and cameras. The BEV LiDAR 3D object detector end-to-end inference time on the NVIDIA Xavier platform is about 45ms with 3 Robosense M1 LiDAR enabled. The end-to-end BEV visual 3D object detector on NVIDIA Orin X is about 58ms with 7-camera enabled with image resolution 1920 × 1080.
+
+  - **Occupancy Grid Map Fusion for Obstacles**: Lead and develop the static object fusion with occupancy grid map. The region of interest is a 30m × 30m square and the resolution could be as small as 0.08m × 0.08m. The ultrasonic echos and stitched fish eye cameras’ segmentation results provide information input for grid fusion module. Grid occupancy probability fusion is mainly based on inter-frame motion prediction (LSTM, RNN) and evidence theory. The grid prediction and fusion module is implemented with C++/CUDA, the overall end-to-end fusion time cost is < 20ms on NVIDIA Xavier platform.
 
 Amazon Web Services, Shanghai, China May, 2020−Jan., 2022 Innovation Solutions Architect, (Member of Global Machine Learning Community)
 Responsible for vertical industry AI solution development, delivery and customer support of Greater China Region (GCR), mainly focusing on the AI technical field, and automotive and smart IP camera vertical industry. My owned solutions created a Revenue of approximately $2.3 million in 2022 year. The 3 solu- tions I was responsible for are list as below:
@@ -132,7 +128,7 @@ March, 2017 – May, 2020 April, 2019 – May, 2020 March, 2017 – April, 2019
 As one of the core members of BMW Autonomous Driving lab, I was responsible for the development of perception, prediction and driving strategy development in technology aspect. In year 2018-2020, I lead the cooperation of BMW and Shanghai JiaoTong University (SJTU) and Navinfo Corp. on ”Gesture Detec- tion and Behavior Analysis” and ”Features Extraction of HD Map and Road-based Surveillance Cameras” projects, respectively.
 • Interactive Merge Maneuvers Modeling in Congested Traffic With MDP: A belief state planner for interactive merge maneuvers in congested traffic based on Markov Decision Process (MDP) and Monte Carlo sampling algorithm is developed and simulated. The research is published in IEEE ITS 2018.
 • Lane changing prediction of high-way or urban environment based on contextual-awareness model and ROS integration and verification: Build a time sequence based neural network model to predict the environment vehicle’s lane changing behavior, features such as vehicles orienta- tion, distance to center line, etc. are extracted and a two-layer LSTM model is established to infer the probabilities distribution of lane changing.
-• Quintic Polynomial Based Motion Planning and Trajectory Generation: Based on Frenet coordinate system, lateral & longitudinal motion state sampling is applied and then solve the motion equations based on sampled states and time horizons, furthermore, we define different cost functions to evaluate the quality of various planed trajectory candidates.
+• Quintic Polynomial Based Motion Planning and Trajectory Generation: Based on Frenet coordinate system, lateral \& longitudinal motion state sampling is applied and then solve the motion equations based on sampled states and time horizons, furthermore, we define different cost functions to evaluate the quality of various planed trajectory candidates.
 • Cooperation with SJTU Unviersity: Leading the cooperation with SJTU on gesture detection and behavior analysis of pedestrians and convert the academic results into ROS environment of BMW autonomous driving vehicles and have been successfully demonstrated in multiple cities such as Shanghai Jiading and Hangzhou in China.
 • Cooperation with Navinfo Corp. : Leading the cooperation with Navinfo Corp. on features extraction of HD map and road-based surveillance cameras on both high-way and urban environments, including the features definition and extraction for lane changing prediction, precedence prediction, route prediction and trajectory prediction, etc. The cooperation contributes the whole dataset and the pipeline for BMW deep learning framework, which is definitely the infrastructure of prediction for BMW autonomous driving.
 
