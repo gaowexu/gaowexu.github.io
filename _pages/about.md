@@ -113,17 +113,24 @@ If you are interested in my research, please feel free to contact me via email.
 
   - **Occupancy Grid Map Fusion for Obstacles**: Lead and develop the static object fusion with occupancy grid map. The region of interest is a 30m × 30m square and the resolution could be as small as 0.08m × 0.08m. The ultrasonic echos and stitched fish eye cameras’ segmentation results provide information input for grid fusion module. Grid occupancy probability fusion is mainly based on inter-frame motion prediction (LSTM, RNN) and evidence theory. The grid prediction and fusion module is implemented with C++/CUDA, the overall end-to-end fusion time cost is < 20ms on NVIDIA Xavier platform.
 
-Amazon Web Services, Shanghai, China May, 2020−Jan., 2022 Innovation Solutions Architect, (Member of Global Machine Learning Community)
-Responsible for vertical industry AI solution development, delivery and customer support of Greater China Region (GCR), mainly focusing on the AI technical field, and automotive and smart IP camera vertical industry. My owned solutions created a Revenue of approximately $2.3 million in 2022 year. The 3 solu- tions I was responsible for are list as below:
-• BEV BMS Battery Consistency Bias Alarm Prediction Solution: This solution aims to provide a tool chain for alert prediction including data store tool, data analysis tool, model process tool and data visualization tool, allows Original Equipment Manufacturer (OEM) speed up battery management system (BMS) alert prediction machine learning developing process, and makes it easier to securely manage terabytes of connected vehicle data. With Amazon S3, AWS Lambda, Amazon SageMaker, Amazon DynamoDB and open-source Apache Superset, this solution offers machine learning developers and data scientists an entire tool chain for BMS Alert Prediction, including data store tool, data analysis tool, model process tool and data visualization tool.
-GA: https://www.amazonaws.cn/solutions/bev-bms-battery-consistency-bias-alarm-prediction Github: https://github.com/aws-samples/aws-bev-bms-battery-consistency-bias-alarm-prediction Win Cases: Volvo China, PowerShare;
-• IP Camera Solution: The IP Camera AI SaaS solution aims to empower the security industry by providing artificial intelligence capabilities in the cloud. It helps customers reduce the time of work of model training, architecture, and model deployment, from many days to a few minutes. The solution currently provides 5 AI algorithm functions: face detection, human detection, face comparison, pets detection and vehicles detection. With this solution, you can quickly deploy an end-to-end service in the Amazon Web Services, and end-users can easily use these AI functions through API calls.
-GA: https://www.amazonaws.cn/solutions/ip-camera-solution/
-Github: https://github.com/aws-samples/amazon-ipc-ai-saas
-TensorRT Acceleration Github: https://github.com/aws-samples/amazon-ipc-ai-saas/tree/t ensorrt
-Win Cases: FOSCAM, Netvue, TP-Link, etc.;
-• Face Recognition and Management Solution With Amazon SageMaker: The solution is implemented based on Amazon S3, AWS Lambda, Amazon API Gateway, Amazon SageMaker, Ama- zon DynamoDB and other components. If offers customers a solution including face detection, face and face search solutions. Once photos are uploaded to the S3 bucket, the backend detects the faces on photos and store the face feature vectors in DynamoDB. At the same time, the user can query faces via simple HTTP api call, returning all the picture data of the queried person in the database. Github: https://github.com/aws-samples/amazon-ipc-ai-saas/tree/facerec
-Win cases: Kone China;
+- **Amazon Web Services, Shanghai, China**
+
+  Innovation Solutions Architect, (Member of Global Machine Learning Community), May, 2020 − Jan., 2022.
+
+  _Responsible for vertical industry AI solution development, delivery and customer support of Greater China Region (GCR), mainly focusing on the AI technical field, and automotive and smart IP camera vertical industry. My owned solutions created a Revenue of approximately $2.3 million in 2022 year. The 3 solu- tions I was responsible for are list as below:_
+
+  - **[BEV BMS Battery Consistency Bias Alarm Prediction Solution](https://www.amazonaws.cn/solutions/bev-bms-battery-consistency-bias-alarm-prediction)**: This solution aims to provide a tool chain for alert prediction including data store tool, data analysis tool, model process tool and data visualization tool, allows Original Equipment Manufacturer (OEM) speed up battery management system (BMS) alert prediction machine learning developing process, and makes it easier to securely manage terabytes of connected vehicle data. With Amazon S3, AWS Lambda, Amazon SageMaker, Amazon DynamoDB and open-source Apache Superset, this solution offers machine learning developers and data scientists an entire tool chain for BMS Alert Prediction, including data store tool, data analysis tool, model process tool and data visualization tool.
+    Github: https://github.com/aws-samples/aws-bev-bms-battery-consistency-bias-alarm-prediction
+    Win Cases: Volvo China, PowerShare;
+
+  - **[IP Camera Solution](https://www.amazonaws.cn/solutions/ip-camera-solution/)**: The IP Camera AI SaaS solution aims to empower the security industry by providing artificial intelligence capabilities in the cloud. It helps customers reduce the time of work of model training, architecture, and model deployment, from many days to a few minutes. The solution currently provides 5 AI algorithm functions: face detection, human detection, face comparison, pets detection and vehicles detection. With this solution, you can quickly deploy an end-to-end service in the Amazon Web Services, and end-users can easily use these AI functions through API calls.
+    Github: https://github.com/aws-samples/amazon-ipc-ai-saas
+    TensorRT Acceleration Github: https://github.com/aws-samples/amazon-ipc-ai-saas/tree/tensorrt
+    Win Cases: FOSCAM, Netvue, TP-Link, etc.;
+
+  - **Face Recognition and Management Solution With Amazon SageMaker**: The solution is implemented based on Amazon S3, AWS Lambda, Amazon API Gateway, Amazon SageMaker, Ama- zon DynamoDB and other components. If offers customers a solution including face detection, face and face search solutions. Once photos are uploaded to the S3 bucket, the backend detects the faces on photos and store the face feature vectors in DynamoDB. At the same time, the user can query faces via simple HTTP api call, returning all the picture data of the queried person in the database.
+    Github: https://github.com/aws-samples/amazon-ipc-ai-saas/tree/facerec
+    Win cases: Kone China;
 
 BMW Group (Autonomous Driving Lab), Shanghai, China
 Advanced Specialist of Robotics and Artificial Intelligence Specialist of Robotics and Artificial Intelligence
