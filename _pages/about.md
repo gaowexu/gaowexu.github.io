@@ -21,7 +21,7 @@ Hi, I am Gaowei Xu (徐高伟), I graduated from the School of Electronic Scienc
 
 After graduation, I worked for Intel, BMW Group, Amazon Web Services (AWS), and smart Automobile. Always focusing on the fields of artificial intelligence (AI), deep learning, robotics, autonomous driving, and cloud computing.
 
-Currently, I am a principal engineer at NVIDIA, focusing on the fields of artificial intelligence, autonomous driving and heterogeneous computing (CPU + GPU, cluster cloud-based, etc.).
+Currently, I am a senior engineer at NVIDIA, focusing on the fields of artificial intelligence, autonomous driving and heterogeneous computing (CPU + GPU, cluster cloud-based, etc.).
 
 Outside of academia, I have a passion for cooking, traveling, and swimming. In terms of my life goals, I aspire to have a fulfilling career in a field that I am passionate about. I also strive to make a positive impact by helping others realize their full potential.
 
