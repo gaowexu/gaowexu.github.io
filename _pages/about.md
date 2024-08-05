@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Gaowei Xu (徐高伟), I graduated from the School of Electronic Science and Engineering of Southeast University, Nanjing, China, in 2013 with a bachelor's degree in electronic science and technology. In the second half of 2013, I obtained the postgraduate qualification without examination and entered the State Key Laboratory of Application-Specific Integrated Circuit (ASIC) and Systems at Fudan University to study digital integrated circuit design. My postgraduate topics are machine learning machine algorithms and VLSI acceleration, biological signal processing and circuit implementation.
+Greetings, I'm Gaowei Xu (徐高伟), a seasoned professional in electronic engineering and artificial intelligence. I earned my bachelor's degree in Electronic Science and Technology from Southeast University, Nanjing, in 2013. Subsequently, I pursued postgraduate studies at Fudan University's State Key Laboratory of Application-Specific Integrated Circuit (ASIC) and Systems, focusing on digital integrated circuit design, machine learning algorithms, VLSI acceleration, and biological signal processing.
 
-After graduation, I worked for Intel, BMW Group, Amazon Web Services (AWS), and smart Automobile. I have more than 8 years of working experience on the fields of artificial intelligence (AI), deep learning, robotics, autonomous driving, and cloud computing.Currently, I am a senior engineer at NVIDIA Corp, focusing on the fields of AI, autonomous driving and heterogeneous computing (Embedded CPU + GPU, cluster cloud-based, etc.). I have excellent communication skills in both English and Mandarin (both oral and written) and rich Experience of joint-development & cooperation with global team.
+My career spans prestigious organizations including Intel (as an intern), BMW Group, Amazon Web Services (AWS), Smart Automobile and NVIDIA. With over eight years of experience, I've honed my expertise in artificial intelligence, deep learning, robotics, autonomous driving, and cloud computing. Currently, I serve as a Principal Engineer and Lead of DataOps & AIOps at NVIDIA Corp, specializing in AI, autonomous driving, and heterogeneous computing (Embedded CPU + GPU, cluster cloud-based systems).
+My professional strengths include excellent bilingual communication skills in English and Mandarin, coupled with extensive experience in global team collaboration and joint development projects.
 
-Outside of academia, I have a passion for cooking, traveling, and swimming. In terms of my life goals, I aspire to have a fulfilling career in a field that I am passionate about. I also strive to make a positive impact by helping others realize their full potential.
+Beyond my professional pursuits, I find joy in culinary arts, travel, and swimming. My aspirations extend beyond personal success; I aim to contribute meaningfully to my field and inspire others to reach their full potential.
 
-If you are interested in my research, please feel free to contact me via email.
+For inquiries regarding my research or potential collaborations, please don't hesitate to contact me via email.
 
 <span class='anchor' id='educations'></span>
 
