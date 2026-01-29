@@ -19,7 +19,7 @@ redirect_from:
 
 Greetings, I'm Gaowei Xu (徐高伟), a seasoned professional in electronic engineering and artificial intelligence. I earned my bachelor's degree in Electronic Science and Technology from Southeast University, Nanjing, in 2013. Subsequently, I pursued postgraduate studies at Fudan University's State Key Laboratory of Application-Specific Integrated Circuit (ASIC) and Systems, focusing on digital integrated circuit design, machine learning algorithms, VLSI acceleration, and biological signal processing.
 
-My career spans prestigious organizations including Intel (as an intern), BMW Group, Amazon Web Services (AWS), Smart Automobile and NVIDIA. With over eight years of experience, I've honed my expertise in artificial intelligence, deep learning, robotics, autonomous driving, and cloud computing. Currently, I serve as a Principal Engineer and Lead of DataOps & AIOps at NVIDIA Corp, specializing in AI, autonomous driving, and heterogeneous computing (Embedded CPU + GPU, cluster cloud-based systems).
+My career spans prestigious organizations including Intel (as an intern), BMW Group, Amazon Web Services (AWS), Smart Automobile and NVIDIA. With 10+ years of experience, I've honed my expertise in artificial intelligence, deep learning, robotics, autonomous driving, and cloud computing. Currently, I serve as a Senior Manager and Lead of AI & MLOps at NVIDIA Corp, specializing in AI, autonomous driving, and heterogeneous computing (Embedded CPU + GPU, cluster cloud-based systems).
 My professional strengths include excellent bilingual communication skills in English and Mandarin, coupled with extensive experience in global team collaboration and joint development projects.
 
 Beyond my professional pursuits, I find joy in culinary arts, travel, and swimming. My aspirations extend beyond personal success; I aim to contribute meaningfully to my field and inspire others to reach their full potential.
@@ -109,6 +109,15 @@ For inquiries regarding my research or potential collaborations, please don't he
 <span class='anchor' id='work-experience'></span>
 
 # 💻 Work Experience
+
+- **NVIDIA, Shanghai, China**
+
+  _Senior Manager, AI/MLOps, Automotive_, April., 2024 - Present.
+
+  _Led the architecture and deployment of hybrid cloud solutions to support high-throughput data generation, AI-driven synthetic data creation, and automated management workflows. Designed and implemented end-to-end data generation pipelines for L2/L2++ autonomous driving perception systems, integrating AI-based synthetic data production and HD map-based automated labeling. Responsible for NVIDIA L2+/L2++/L3 autonomous driving dynamic and static data GT generation (including 4D LiDAR, 4D Parking, RoadNet, and classical 2D perception networks such as Traffic Light and Traffic Sign detection), 3D scene reconstruction, and automated data delivery. Specialized in developing scalable infrastructure for heterogeneous computing environments (embedded CPU+GPU systems and cloud-based clusters), enabling efficient large-scale data processing, simulation, and continuous integration workflows._
+
+
+
 
 - **Smart Robotics Technology Co., Ltd. (Mercedes-Geely subsidiary), Shanghai, China**
 
